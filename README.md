@@ -33,9 +33,3 @@
 <p align="left">Me chamo Leonardo Celestino e moro em Guarapuava Paraná 😀<br>Sou novo na área então toda ajuda é bem vinda! 😁<br>Gosto de videogame e assistir animes/series. 👀</p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LeoCele/LeoCele/output/snake.svg" alt="Snake animation" />
-
-###
